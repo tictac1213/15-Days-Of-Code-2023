@@ -12,3 +12,6 @@
   [https://codeforces.com/problemset/submission/158/220951537]
 - Question 4 Domino Piling
   [https://codeforces.com/problemset/submission/50/220952440]
+- STL By LUV lecture 1,2,3
+  [https://pastebin.com/raw/TWM4Xfip]
+  [https://pastebin.com/raw/ZmL7pPmq]
