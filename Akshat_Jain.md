@@ -19,4 +19,5 @@
   ### Day 2
 
 [August] [30], 2023
--Today was rakhi celebration will try to give contest
+
+- Today was rakhi celebration will try to give contest
