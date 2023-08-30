@@ -15,3 +15,8 @@
 - STL By LUV lecture 1,2,3
   [https://pastebin.com/raw/TWM4Xfip]
   [https://pastebin.com/raw/ZmL7pPmq]
+
+  ### Day 2
+
+[August] [30], 2023
+-Today was rakhi celebration will try to give contest
