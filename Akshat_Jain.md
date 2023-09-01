@@ -16,8 +16,15 @@
   [https://pastebin.com/raw/TWM4Xfip]
   [https://pastebin.com/raw/ZmL7pPmq]
 
-  ### Day 2
+  ### Day 2 
 
 [August] [30], 2023
 
 - Today was rakhi celebration will try to give contest
+
+ ### Day 3
+ [August] [31], 2023
+- Couldn't do any thing Was out at Relatives'.
+ ### Day 4
+ [September] [01], 2023
+- 
