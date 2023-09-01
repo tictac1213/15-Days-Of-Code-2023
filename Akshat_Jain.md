@@ -27,4 +27,5 @@
 - Couldn't do any thing Was out at Relatives'.
  ### Day 4
  [September] [01], 2023
-- 
+- STL lecture 3,4 iterators and auto keyword
+[https://pastebin.com/wPFBYR9p]
