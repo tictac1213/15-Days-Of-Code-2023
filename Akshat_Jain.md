@@ -42,3 +42,5 @@
 [https://codeforces.com/contest/1856/submission/221591372] 
 - STL Maps And Multimaps
 [https://pastebin.com/YZzmsZVE]
+- STL sets
+[https://pastebin.com/AqMXcxF3]
