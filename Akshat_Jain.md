@@ -31,3 +31,10 @@
 [https://pastebin.com/wPFBYR9p]
 - STL lecture Ordered Maps
 [https://pastebin.com/iYL32p2U]
+
+ ### Day 4
+ [September] [02], 2023
+- Question Bit++
+[https://codeforces.com/problemset/submission/282/221561593]
+- Question Beautiful Matrix
+[https://codeforces.com/problemset/submission/263/221584762]
