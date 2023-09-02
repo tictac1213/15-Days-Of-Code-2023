@@ -16,7 +16,7 @@
   [https://pastebin.com/raw/TWM4Xfip]
   [https://pastebin.com/raw/ZmL7pPmq]
 
-  ### Day 2 
+### Day 2 
 
 [August] [30], 2023
 
@@ -39,6 +39,6 @@
 - Question Beautiful Matrix
 [https://codeforces.com/problemset/submission/263/221584762]
 - Question Tales of sort
-[https://codeforces.com/contest/1856/submission/221591372]
--STL Maps And Multimaps
+[https://codeforces.com/contest/1856/submission/221591372] 
+- STL Maps And Multimaps
 [https://pastebin.com/YZzmsZVE]
