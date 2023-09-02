@@ -38,3 +38,7 @@
 [https://codeforces.com/problemset/submission/282/221561593]
 - Question Beautiful Matrix
 [https://codeforces.com/problemset/submission/263/221584762]
+- Question Tales of sort
+[https://codeforces.com/contest/1856/submission/221591372]
+-STL Maps And Multimaps
+[https://pastebin.com/YZzmsZVE]
