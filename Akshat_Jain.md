@@ -2,7 +2,7 @@
 
 ### Day 1
 
-[August] [29], 2023
+August 29, 2023
 
 - Question 1 Team
   [https://codeforces.com/problemset/submission/231/220942120]
@@ -23,17 +23,17 @@
 - Today was rakhi celebration will try to give contest
 
  ### Day 3
- [August] [31], 2023
+ August 31, 2023
 - Couldn't do any thing Was out at Relatives'.
  ### Day 4
- [September] [01], 2023
+ September 01, 2023
 - STL lecture 3,4 iterators and auto keyword
 [https://pastebin.com/wPFBYR9p]
 - STL lecture Ordered Maps
 [https://pastebin.com/iYL32p2U]
 
  ### Day 5
- [September] [02], 2023
+ September 02, 2023
 - Question Bit++
 [https://codeforces.com/problemset/submission/282/221561593]
 - Question Beautiful Matrix
@@ -44,3 +44,7 @@
 [https://pastebin.com/YZzmsZVE]
 - STL sets
 [https://pastebin.com/AqMXcxF3]
+
+### Day 6
+September 03, 2023
+- Travelled back to college
