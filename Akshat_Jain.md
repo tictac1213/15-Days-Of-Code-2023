@@ -51,4 +51,6 @@ September 03, 2023
 
 ### Day 7
 September 04,2023
-- Question Good Arrays [https://codeforces.com/problemset/submission/1856/221835098]
+- Question Good Arrays(Had to read editorial) [https://codeforces.com/problemset/submission/1856/221835098]
+- Question Balanced Round [https://codeforces.com/problemset/submission/1850/221850854]
+- STL Stacks And Queues [https://pastebin.com/RTaF4Rcp]
