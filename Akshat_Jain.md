@@ -48,3 +48,7 @@ August 29, 2023
 ### Day 6
 September 03, 2023
 - Travelled back to college
+
+### Day 7
+September 04,2023
+- Question Good Arrays [https://codeforces.com/problemset/submission/1856/221835098]
