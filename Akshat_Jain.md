@@ -60,3 +60,5 @@ September 05, 2023
 - Ouestion Swap And Reverse (Had to read editorial) [https://codeforces.com/contest/1864/submission/221949592]
 - Question Parity Sort [https://codeforces.com/problemset/submission/1851/221951724]
 - Question Come Together [https://codeforces.com/contest/1845/submission/221966814]
+- Lecture on STL sort [https://pastebin.com/dTAymR5b]
+- Lecture on STL sort comparator [https://pastebin.com/QDVBTCra]
