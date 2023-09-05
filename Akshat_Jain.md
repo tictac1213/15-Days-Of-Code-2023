@@ -59,4 +59,4 @@ September 04,2023
 September 05, 2023
 - Ouestion Swap And Reverse (Had to read editorial) [https://codeforces.com/contest/1864/submission/221949592]
 - Question Parity Sort [https://codeforces.com/problemset/submission/1851/221951724]
--Question Come Together [https://codeforces.com/contest/1845/submission/221966814]
+- Question Come Together [https://codeforces.com/contest/1845/submission/221966814]
