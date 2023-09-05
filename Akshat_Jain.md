@@ -54,3 +54,9 @@ September 04,2023
 - Question Good Arrays(Had to read editorial) [https://codeforces.com/problemset/submission/1856/221835098]
 - Question Balanced Round [https://codeforces.com/problemset/submission/1850/221850854]
 - STL Stacks And Queues [https://pastebin.com/RTaF4Rcp]
+
+### Day  8
+September 05, 2023
+- Ouestion Swap And Reverse (Had to read editorial) [https://codeforces.com/contest/1864/submission/221949592]
+- Question Parity Sort [https://codeforces.com/problemset/submission/1851/221951724]
+-Question Come Together [https://codeforces.com/contest/1845/submission/221966814]
