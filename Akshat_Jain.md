@@ -62,3 +62,7 @@ September 05, 2023
 - Question Come Together [https://codeforces.com/contest/1845/submission/221966814]
 - Lecture on STL sort [https://pastebin.com/dTAymR5b]
 - Lecture on STL sort comparator [https://pastebin.com/QDVBTCra]
+
+### Day 9
+- Question Morning Sandwich [https://codeforces.com/problemset/submission/1849/222061464]
+- Completed Stl playlist [https://pastebin.com/ZArHinf2]
