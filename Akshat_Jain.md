@@ -64,5 +64,6 @@ September 05, 2023
 - Lecture on STL sort comparator [https://pastebin.com/QDVBTCra]
 
 ### Day 9
+September 06, 2023
 - Question Morning Sandwich [https://codeforces.com/problemset/submission/1849/222061464]
 - Completed Stl playlist [https://pastebin.com/ZArHinf2]
