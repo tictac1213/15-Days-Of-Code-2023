@@ -73,5 +73,5 @@ September 07, 2023
 - Question Longest Divisor Interval[https://codeforces.com/problemset/submission/1855/222182151]
 - Question United we stand [https://codeforces.com/problemset/submission/1859/222211347]
 - Contest CF 895
-- - Q1 [https://codeforces.com/contest/1872/submission/222355274]
-- Q2 [https://codeforces.com/contest/1872/submission/222358665]
+  - Q1 [https://codeforces.com/contest/1872/submission/222355274]
+  - Q2 [https://codeforces.com/contest/1872/submission/222358665]
