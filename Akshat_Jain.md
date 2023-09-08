@@ -75,3 +75,9 @@ September 07, 2023
 - Contest CF 895 after contest
   - Q1 [https://codeforces.com/contest/1872/submission/222355274]
   - Q2 [https://codeforces.com/contest/1872/submission/222358665]
+
+### Day 11
+September 08,2023
+- Question Non Coprime split [https://codeforces.com/contest/1872/submission/222475120]
+- Question Plus Minus Permutation [https://codeforces.com/contest/1872/submission/222498268]
+- Question Petya And Strings [https://codeforces.com/problemset/submission/112/222500966]
