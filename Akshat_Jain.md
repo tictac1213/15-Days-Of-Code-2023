@@ -81,3 +81,4 @@ September 08,2023
 - Question Non Coprime split [https://codeforces.com/contest/1872/submission/222475120]
 - Question Plus Minus Permutation [https://codeforces.com/contest/1872/submission/222498268]
 - Question Petya And Strings [https://codeforces.com/problemset/submission/112/222500966]
+- Revised STL
