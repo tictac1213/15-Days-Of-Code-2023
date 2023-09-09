@@ -82,3 +82,9 @@ September 08,2023
 - Question Plus Minus Permutation [https://codeforces.com/contest/1872/submission/222498268]
 - Question Petya And Strings [https://codeforces.com/problemset/submission/112/222500966]
 - Revised STL
+
+### Day 12
+September 09, 2023
+- Question Dalton The Teacher [https://codeforces.com/problemset/submission/1855/222547996]
+- Question Escalator Conversations [https://codeforces.com/problemset/submission/1851/222574982]
+- Question olya and Game with Arrays Wrong Ans at test case 4 [https://codeforces.com/problemset/submission/1859/222634352]
