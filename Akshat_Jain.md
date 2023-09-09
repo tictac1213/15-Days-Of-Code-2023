@@ -87,4 +87,5 @@ September 08,2023
 September 09, 2023
 - Question Dalton The Teacher [https://codeforces.com/problemset/submission/1855/222547996]
 - Question Escalator Conversations [https://codeforces.com/problemset/submission/1851/222574982]
-- Question olya and Game with Arrays Wrong Ans at test case 4 [https://codeforces.com/problemset/submission/1859/222634352]
+- Question olya and Game with Arrays geting Wrong Answer at test case 4 [https://codeforces.com/problemset/submission/1859/222634352]
+- Question Theatre Square [https://codeforces.com/contest/1/submission/222645889]
