@@ -89,3 +89,9 @@ September 09, 2023
 - Question Escalator Conversations [https://codeforces.com/problemset/submission/1851/222574982]
 - Question olya and Game with Arrays geting Wrong Answer at test case 4 [https://codeforces.com/problemset/submission/1859/222634352]
 - Question Theatre Square [https://codeforces.com/contest/1/submission/222645889]
+
+### Day 13
+September 10, 2023 
+- Question olya and Game with Arrays [https://codeforces.com/contest/1859/submission/222686182]
+- Question Desorting [https://codeforces.com/problemset/submission/1853/222713827]
+- Question Tiles Comeback [https://codeforces.com/contest/1851/submission/222723055]
