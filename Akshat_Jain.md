@@ -99,9 +99,9 @@ September 10, 2023
 ### Day 14
 September 11, 2023
 -Attempted Div 2 (in last half hour)
-- - Q1[https://codeforces.com/contest/1867/submission/222978757]
+  - Q1[https://codeforces.com/contest/1867/submission/222978757]
 -Studied about
-- - Birthday Paradox
-- - Big integer class(java)
-- - Modular Exponentiation
-- - Catlan Numbers
+  - Birthday Paradox
+  - Big integer class(java)
+  - Modular Exponentiation
+  - Catlan Numbers
