@@ -102,6 +102,5 @@ September 11, 2023
   - Q1 Green gold dog array and permutation [https://codeforces.com/contest/1867/submission/222978757]
 - Studied about
   - Birthday Paradox
-  - Big integer class(java)
   - Modular Exponentiation
   - Catlan Numbers
