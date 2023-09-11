@@ -95,3 +95,13 @@ September 10, 2023
 - Question olya and Game with Arrays [https://codeforces.com/contest/1859/submission/222686182]
 - Question Desorting [https://codeforces.com/problemset/submission/1853/222713827]
 - Question Tiles Comeback [https://codeforces.com/contest/1851/submission/222723055]
+
+### Day 14
+September 11, 2023
+-Attempted Div 2 (in last half hour)
+- - Q1[https://codeforces.com/contest/1867/submission/222978757]
+-Studied about
+- - Birthday Paradox
+- - Big integer class(java)
+- - Modular Exponentiation
+- - Catlan Numbers
