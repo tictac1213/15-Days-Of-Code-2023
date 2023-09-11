@@ -98,8 +98,8 @@ September 10, 2023
 
 ### Day 14
 September 11, 2023
--Attempted Div 2 (in last half hour)
-  - Q1[https://codeforces.com/contest/1867/submission/222978757]
+- Attempted CF round 897 Div 2 (in last half hour)
+  - Q1 Green gold dog array and permutation [https://codeforces.com/contest/1867/submission/222978757]
 - Studied about
   - Birthday Paradox
   - Big integer class(java)
