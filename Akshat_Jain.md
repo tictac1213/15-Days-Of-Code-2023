@@ -104,3 +104,12 @@ September 11, 2023
   - Birthday Paradox
   - Fast Exponentiation
   - Catlan Numbers
+  ### Day 15
+  September 12, 2023
+  - Studied About 
+    - Linear Reccurence series
+    - Mathematical Expectation
+    - Pigeon hole principle
+
+- Solved CF Question
+  - Word On Paper [https://codeforces.com/contest/1850/submission/223129765]
