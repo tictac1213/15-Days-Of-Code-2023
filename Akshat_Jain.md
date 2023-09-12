@@ -106,7 +106,7 @@ September 11, 2023
   - Catlan Numbers
   ### Day 15
   September 12, 2023
-  - Studied About 
+- Studied About 
     - Linear Reccurence series
     - Mathematical Expectation
     - Pigeon hole principle
